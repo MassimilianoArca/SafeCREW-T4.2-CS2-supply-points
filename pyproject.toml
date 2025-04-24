@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "safecrew-t4-2-cs2-supply-points"
+version = "0.1.0"
+description = ""
+authors = ["Massimiliano Arca <massimiliano.arca@mail.polimi.it>"]
+readme = "README.md"
+packages = [{include = "safecrew_t4"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.2.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
