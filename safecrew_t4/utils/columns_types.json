@@ -1,0 +1,42 @@
+{
+    "metadata_columns": [
+        "Codice punto di prelievo",
+        "Data di prelievo",
+        "Punto di prelievo",
+        "Rapporto di prova"
+    ],
+    "features_columns": [
+        "Cloro residuo libero (mg/L di Cl2)",
+        "Cloro residuo libero (al prelievo) (mg/L di Cl2)",
+        "Colore (Cu)",
+        "Colore (CU)",
+        "Concentr. ioni idrogeno (unit\u00e0 pH)",
+        "Concentrazione ioni idrogeno (unità pH)",
+        "Conduttivit\u00e0 a 20\u00b0C (\u00b5S/cm)",
+        "TOC - carbonio organico totale (mg/L di C)",
+        "Temperatura (\u00b0C)",
+        "Temperatura - \u00b0C",
+        "Temperatura \u00b0C",
+        "Temperatura (al prelievo) (\u00b0C)",
+        "Torbidit\u00e0 (NTu)",
+        "Torbidit\u00e0 (NTU)",
+        "Nitrati (mg/L)"
+    ],
+    "targets_columns": [
+        "Batteri coliformi a 37\u00b0C (MPN/100 mL)",
+        "Batteri coliformi a 37°C (MPN / 100 mL)",
+        "Bromodiclorometano (\u00b5g/L)",
+        "Bromoformio (\u00b5g/L)",
+        "Cloroformio (\u00b5g/L)",
+        "Conta delle colonie a 22\u00b0C (UFC/mL)",
+        "Dibromoclorometano (\u00b5g/L)",
+        "Enterococchi (MPN/100 mL)",
+        "Enterococchi (MPN / 100mL)",
+        "Escherichia coli (MPN/100 mL)",
+        "Escherichia Coli (MPN / 100mL)",
+        "Pseudomonas aeruginosa (UFC/250 mL)",
+        "Acido Perfluoroottanoico PFOA (\u00b5g/L)",
+        "Acido Perfluoroottansolfonico PFOS (\u00b5g/L)",
+        "Somma di PFAS (\u00b5g/L)"
+    ]
+}
